@@ -115,7 +115,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 
 
-##Extras:
+## Extras:
 [Archivos Originales Sucios](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF)
 [Archivos limpios y Diccionario de datos](https://drive.google.com/drive/folders/1W5RQnRovzXpqijahiWN5D-rKtwRs75wU?usp=sharing) 
 [Video Código ETL](https://drive.google.com/file/d/1lB04CzL9OdhFtZdwrU_3XEg5iJRb8zIm/view?usp=sharing)
@@ -144,10 +144,8 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 <img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi3.png"  height=100>
 </p>
 
-
+<br>
 [Archivo .pbix](https://drive.google.com/file/d/15LHqoKgbZGkvWyKAlrBWWeI_w0wQHgWe/view?usp=sharing) con el dashboard
-
-
 
 
 <br>[Volver al Índice](#Índice)
@@ -155,13 +153,23 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 El núcleo del sistema se basó en 2 etapas:
 
-## Usuario-Negocio
+## Recomendación Usuario-Negocio
 
 En esta etapa a partir de un correo electrónico se generó una recomendación de negocio. Esto se realizó a través de un filtrado usando las calificaciones de los negocios. A su vez se eliminó el problema del cold started usando un filtrado y generando un número aleatorio, para evitar la repeticion de la recomendación.
 
-## Negocio-Negocio
+## Recomendación Negocio-Negocio
 
-En núcleo del sistema se basó en un algoritmo de similitud de los cosenos, cuya matriz se generó a partir de las categorias cat_elite, cat_limpieza, cat_ambiente, cat_promociones, cat_extra y cat_interaccion. Que a su vez fueron geneneradas de buscar la similitud de una lista de palabras para cada categoría, respecto a los reviews de los usuarios.
+Esta parte del algoritmo se basó en un algoritmo de similitud de los cosenos, cuya matriz se generó a partir de las categorias cat_elite, cat_limpieza, cat_ambiente, cat_promociones, cat_extra y cat_interaccion. Que a su vez fueron geneneradas de buscar la similitud de una lista de palabras para cada categoría, respecto a los reviews de los usuarios.
+
+
+
+## Ventajas
+* Optimización de recursos
+* Menor gasto de infraestructura
+* Soluciona el cold started
+
+_NOTA:Al usar las categorías en lugar de una tokenización, se usa una matriz del 96% mas pequeña.
+
 
 
 
@@ -179,13 +187,12 @@ Funciona ingresando un correo electrónico con una sintaxis válida, en caso de 
 
 
 
-# [Diapositivas del Proyecto](https://docs.google.com/presentation/d/1DximOxcaPS7WU5JpOEQaskkp2wCvOX-rGs5s_ERTPAQ/edit?usp=sharing)
-
+# [Diapositivas/Láminas del Proyecto](https://docs.google.com/presentation/d/1DximOxcaPS7WU5JpOEQaskkp2wCvOX-rGs5s_ERTPAQ/edit?usp=sharing)
 
 <br>[Volver al Índice](#Índice)
 
 # Roles 
 * Lider del Proyecto: [José R. Guignan](https://www.linkedin.com/in/jrguignan). 
-* Ingeniero de Datos: Angel Jaramillo y Juan Albadan. 
-* Analista de Datos: Katia Ordoñez y Bryam Guerrero.
-* Ingeniero de Apredizaje Automático: [José R. Guignan](https://www.linkedin.com/in/jrguignan). 
+* Ingeniería de Datos: Angel Jaramillo y Juan Albadan. 
+* Análisis de Datos: Katia Ordoñez y Bryam Guerrero.
+* Ingeniería de Apredizaje Automático: [José R. Guignan](https://www.linkedin.com/in/jrguignan). 
