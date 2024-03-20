@@ -25,7 +25,7 @@ Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia
 * [Data Engineer](#Data-Engineer)
 * [Data Analytics](#Data-Analytics)
 * [Machine Learning](#Machine-Learning)
-* [Diapositivas del Proyecto](#Diapositivas-del-Proyecto)
+* [Diapositivas/Láminas del Proyecto](#Diapositivas/Láminas del Proyecto)
 * [Roles](#Roles)
     
 
@@ -204,11 +204,12 @@ Funciona ingresando un correo electrónico con una sintaxis válida, en caso de 
 
 [Datasets](https://drive.google.com/drive/folders/1H3qKWG1TzTjYUqWvOxdo31cLpoC3-nRb?usp=sharing) usados por el modelo.
 
+<br>[Volver al Índice](#Índice)
 
 
 # [Diapositivas/Láminas del Proyecto](https://docs.google.com/presentation/d/1DximOxcaPS7WU5JpOEQaskkp2wCvOX-rGs5s_ERTPAQ/edit?usp=sharing)
 
-<br>[Volver al Índice](#Índice)
+
 
 # Roles 
 * Lider del Proyecto: [José R. Guignan](https://www.linkedin.com/in/jrguignan). 
