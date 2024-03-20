@@ -183,9 +183,9 @@ Esta parte del algoritmo se basó en un algoritmo de similitud de los cosenos, c
 
 
 ## Ventajas
-* Optimización de recursos
-* Menor gasto de infraestructura
-* Soluciona el cold started
+* Optimización de recursos.
+* Menor gasto de infraestructura.
+* Soluciona el cold started.
 
 _NOTA:_ Al usar las categorías en lugar de una tokenización, se usa una matriz del 96% mas pequeña.
 
