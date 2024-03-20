@@ -161,6 +161,9 @@ En esta etapa a partir de un correo electrónico se generó una recomendación d
 
 Esta parte del algoritmo se basó en un algoritmo de similitud de los cosenos, cuya matriz se generó a partir de las categorias cat_elite, cat_limpieza, cat_ambiente, cat_promociones, cat_extra y cat_interaccion. Que a su vez fueron geneneradas de buscar la similitud de una lista de palabras para cada categoría, respecto a los reviews de los usuarios.
 
+<p align="center">
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/diagramaSC.png"  height=100>
+</p>
 
 
 ## Ventajas
@@ -168,7 +171,7 @@ Esta parte del algoritmo se basó en un algoritmo de similitud de los cosenos, c
 * Menor gasto de infraestructura
 * Soluciona el cold started
 
-_NOTA:Al usar las categorías en lugar de una tokenización, se usa una matriz del 96% mas pequeña.
+_NOTA:_ Al usar las categorías en lugar de una tokenización, se usa una matriz del 96% mas pequeña.
 
 
 
