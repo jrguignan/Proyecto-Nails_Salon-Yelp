@@ -142,7 +142,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 </p>
 
 
-[Archivo .pbix dashboard](https://drive.google.com/file/d/15LHqoKgbZGkvWyKAlrBWWeI_w0wQHgWe/view?usp=sharing)
+[Archivo .pbix](https://drive.google.com/file/d/15LHqoKgbZGkvWyKAlrBWWeI_w0wQHgWe/view?usp=sharing) con el dashboard
 
 
 
@@ -168,6 +168,7 @@ En núcleo del sistema se basó en un algoritmo de similitud de los cosenos, cuy
 [Video](https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view?usp=sharing) del sistema implementado en servidor local con Streamlit.
 
 [Datasets](https://drive.google.com/drive/folders/1H3qKWG1TzTjYUqWvOxdo31cLpoC3-nRb?usp=sharing) usados por el modelo.
+
 <br>[Volver al Índice](#Índice)
 
 
