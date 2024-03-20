@@ -50,20 +50,20 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Diagrama de Gantt
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/Diagrama_Gantt.png"  height=200>
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/Diagrama_Gantt.png"  height=350>
 </p>
 
-## Data Engineer
+# [Data Engineer](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Data%20Engineer)
 
-## Data Analytics
-
-
+# [Data Analytics](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Data%20Analytics)
 
 
 
 
-## Machine Learning
-## [Sistema de Recomendación](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Machine%20Learning)
+
+
+# [Machine Learning](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Machine%20Learning)
+## [Sistema de Recomendación](https://machinelearning-proyecto.streamlit.app/)
 
 En núcleo del sistema se basó en un algoritmo de similitud de los cosenos, cuya matriz se generó a partir de las categorias
 **cat_elite**, **cat_limpieza**, **cat_ambiente**, **cat_promociones**, **cat_extra** y **cat_interaccion**. Que a su vez fueron geneneradas de buscar la similitud de una lista de palabras para cada categoría, respecto a los reviews de los usuarios.
