@@ -213,6 +213,6 @@ Funciona ingresando un correo electrónico con una sintaxis válida, en caso de 
 
 # Roles 
 * Lider del Proyecto: [José R. Guignan](https://www.linkedin.com/in/jrguignan). 
-* Ingeniería de Datos: Angel Jaramillo y Juan Albadan. 
+* Ingeniería de Datos: Angel Jaramillo y [Juan Albadan](https://www.linkedin.com/in/juan-david-albadan-689855216/). 
 * Análisis de Datos: Katia Ordoñez y Bryam Guerrero.
 * Ingeniería de Apredizaje Automático: [José R. Guignan](https://www.linkedin.com/in/jrguignan). 
