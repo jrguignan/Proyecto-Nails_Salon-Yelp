@@ -25,7 +25,7 @@ Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia
 * [Data Engineer](#Data-Engineer)
 * [Data Analytics](#Data-Analytics)
 * [Machine Learning](#Machine-Learning)
-* [Diapositivas/Láminas del Proyecto](#Diapositivas-Láminas-del-Proyecto)
+* [Diapositivas-Láminas del Proyecto](#Diapositivas-Láminas-del-Proyecto)
 * [Roles](#Roles)
     
 
@@ -207,7 +207,7 @@ Funciona ingresando un correo electrónico con una sintaxis válida, en caso de 
 <br>[Volver al Índice](#Índice)
 
 
-# [Diapositivas/Láminas del Proyecto](https://docs.google.com/presentation/d/1DximOxcaPS7WU5JpOEQaskkp2wCvOX-rGs5s_ERTPAQ/edit?usp=sharing)
+# [Diapositivas-Láminas del Proyecto](https://docs.google.com/presentation/d/1DximOxcaPS7WU5JpOEQaskkp2wCvOX-rGs5s_ERTPAQ/edit?usp=sharing)
 
 
 
