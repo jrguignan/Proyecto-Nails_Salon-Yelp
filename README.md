@@ -124,21 +124,21 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Dashboard
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/Dashboard.png"  height=400>
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/Dashboard.png"  height=300>
 </p>
 
 ## Kpis
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi1.png"  height=300>
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi1.png"  height=100>
 </p>
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi2.png"  height=300>
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi2.png"  height=100>
 </p>
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi3.png"  height=300>
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/kpi3.png"  height=100>
 </p>
 
 
