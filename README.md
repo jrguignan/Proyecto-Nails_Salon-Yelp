@@ -40,8 +40,9 @@ Desarrollar un sistema de recomendación de establecimientos de *Nail Salons* qu
 * Aumentar las reseñas semestrales 
 * Incrementar la tasa de satisfaccion del cliente 
 * Incrementar el promedio de rating positivos 
-<br>[Volver al Índice](#Índice)
 
+
+<br>[Volver al Índice](#Índice)
 
 ## Alcance 
 El alcance inicial del proyecto estará limitado al estado de Florida (USA), abarcando ciudades importantes como Miami, Orlando, Tampa, Jacksonville y otras regiones clave.
