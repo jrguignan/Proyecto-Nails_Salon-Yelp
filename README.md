@@ -25,7 +25,7 @@ Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia
 * [Data Engineer](#Data-Engineer)
 * [Data Analytics](#Data-Analytics)
 * [Machine Learning](#Machine-Learning)
-* [Diapositivas/Láminas del Proyecto](#Diapositivas/Láminas del Proyecto)
+* [Diapositivas/Láminas del Proyecto](#Diapositivas-Láminas-del-Proyecto)
 * [Roles](#Roles)
     
 
