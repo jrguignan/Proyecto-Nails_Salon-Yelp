@@ -23,6 +23,7 @@ Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia
 * [Data Engineer](#Data-Engineer)
 * [Data Analytics](#Data-Analytics)
 * [Machine Learning](#Machine-Learning)
+* [Diapositivas del Proyecto](#Diapositivas-del-Proyecto)
 * [Roles](#Roles)
     
 
@@ -111,12 +112,17 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 # [Data Engineer](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Data%20Engineer)
 
 
+[Archivos](https://drive.google.com/drive/folders/1W5RQnRovzXpqijahiWN5D-rKtwRs75wU?usp=sharing) limpios luego de el ETL
 
+[Video Código ETL](https://drive.google.com/file/d/1lB04CzL9OdhFtZdwrU_3XEg5iJRb8zIm/view?usp=sharing)
+
+[Video Google (GCP)](https://drive.google.com/file/d/1w6RYAlI1eo9ZsulOqGIAr2PrO4ad4lqd/view?usp=sharing)
 
 <br>[Volver al Índice](#Índice)
 # [Data Analytics](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Data%20Analytics)
 
 
+[Archivo dashboard](https://drive.google.com/file/d/15LHqoKgbZGkvWyKAlrBWWeI_w0wQHgWe/view?usp=sharing)
 
 
 
@@ -136,9 +142,11 @@ En núcleo del sistema se basó en un algoritmo de similitud de los cosenos, cuy
 [Deploy](https://machinelearning-proyecto.streamlit.app/) en la nube de Steamlit.
 
 [Video](https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view?usp=sharing) del sistema implementado en servidor local con Streamlit.
+
+[Datasets](https://drive.google.com/drive/folders/1H3qKWG1TzTjYUqWvOxdo31cLpoC3-nRb?usp=sharing) usados por el modelo.
 <br>[Volver al Índice](#Índice)
 
-
+# [Diapositivas del Proyecto](https://docs.google.com/presentation/d/1DximOxcaPS7WU5JpOEQaskkp2wCvOX-rGs5s_ERTPAQ/edit?usp=sharing)
 
 
 # Roles 
