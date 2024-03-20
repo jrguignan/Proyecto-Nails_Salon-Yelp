@@ -1,4 +1,7 @@
-# Somos la Empresa BEAUTY CONSULTING 
+# 
+<div align="left">
+   <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hola! Somos la Empresa BEAUTY CONSULTING   </h1>
+</div>
 
 <p align="center">
 <img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/beautyc.png"  height=400>
