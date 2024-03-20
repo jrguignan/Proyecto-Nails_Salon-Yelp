@@ -10,7 +10,7 @@
 Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia de datos que se especializa en ayudar a organizaciones de diversos sectores a aprovechar al máximo sus datos para obtener información significativa en la toma decisiones estratégicas. Nuestro equipo de expertos en datos combina habilidades técnicas avanzadas con un profundo conocimiento del negocio para ofrecer soluciones personalizadas que impulsen el éxito de nuestros clientes.
 
 # Índice
-* [Sistema de Recomendación de Nail Salons](#Sistema-de-Recomendación-de-Nail-Salons:-Mejorando-la-Experiencia-del-Cliente-en-el-Cuidado-de-Uñas-:nail_care:)
+* [Sistema de Recomendación de Nail Salons](#Sistema-de-Recomendación-de-Nail-Salons:-Mejorando-la-Experiencia-del-Cliente-en-el-Cuidado-de-Uñas)
   * [Objetivo](#Objetivo )
   * [Objetivos Específicos](#Objetivos-Específicos)
   * [Alcance ](#Alcance)
@@ -41,7 +41,6 @@ Desarrollar un sistema de recomendación de establecimientos de *Nail Salons* qu
 * Incrementar la tasa de satisfaccion del cliente 
 * Incrementar el promedio de rating positivos 
 
-
 <br>[Volver al Índice](#Índice)
 
 ## Alcance 
@@ -70,7 +69,7 @@ En un futuro después de una fase exitosa en Florida, se contempla la posibilida
 ### Publicidad para Salones de Uñas:
 Permitir que los salones de uñas paguen por publicidad destacada en el sistema. Esto podría incluir destacar sus servicios, promociones especiales o cupones de descuento para atraer a nuevos clientes. Pueden pagar una tarifa mensual para aparecer en la parte superior de las recomendaciones y destacar comentarios positivos en su perfil
 
-### Perspectiva a Futuro
+## Perspectiva a Futuro
 
 ### Cobro por Acceso a Estadísticas y Análisis:
 Ofrecer a los salones de uñas acceso a estadísticas detalladas y análisis de rendimiento de sus perfiles en el sistema, a cambio de tarifas mensuales
