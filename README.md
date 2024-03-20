@@ -110,6 +110,11 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 </p>
 
 
+
+
+
+
+
 <br>[Volver al Índice](#Índice)
 # [Data Engineer](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Data%20Engineer)
 
@@ -120,6 +125,11 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 [Archivos limpios y Diccionario de datos](https://drive.google.com/drive/folders/1W5RQnRovzXpqijahiWN5D-rKtwRs75wU?usp=sharing)<br>
 [Video Código ETL](https://drive.google.com/file/d/1lB04CzL9OdhFtZdwrU_3XEg5iJRb8zIm/view?usp=sharing)<br>
 [Video Google (GCP)](https://drive.google.com/file/d/1w6RYAlI1eo9ZsulOqGIAr2PrO4ad4lqd/view?usp=sharing)<br>
+
+
+
+
+
 
 <br>[Volver al Índice](#Índice)
 # [Data Analytics](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Data%20Analytics)
@@ -145,7 +155,13 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 </p>
 
 <br>
+
 [Archivo .pbix](https://drive.google.com/file/d/15LHqoKgbZGkvWyKAlrBWWeI_w0wQHgWe/view?usp=sharing) con el dashboard
+
+
+
+
+
 
 
 <br>[Volver al Índice](#Índice)
