@@ -1,6 +1,6 @@
 # 
 <div align="left">
-   <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hola! Somos la Empresa BEAUTY CONSULTING   </h1>
+   <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hola...! Somos la Empresa BEAUTY CONSULTING   </h1>
 </div>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia de datos que se especializa en ayudar a organizaciones de diversos sectores a aprovechar al máximo sus datos para obtener información significativa y tomar decisiones estratégicas fundamentadas. Nuestro equipo de expertos en datos combina habilidades técnicas avanzadas con un profundo conocimiento del negocio para ofrecer soluciones personalizadas que impulsen el éxito de nuestros clientes.
 
-# Sistema de Recomendación de Nail Salons: Mejorando la Experiencia del Cliente en el Cuidado de Uñas
+# Sistema de Recomendación de Nail Salons: Mejorando la Experiencia del Cliente en el Cuidado de Uñas :nail_care:
 
 ## Objetivo 
 
@@ -64,6 +64,9 @@ En núcleo del sistema se basó en un algoritmo de similitud de los cosenos, cuy
 [Deploy](https://machinelearning-proyecto.streamlit.app/) en la nube de Steamlit.
 
 [Video](https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view?usp=sharing) del sistema implementado en servidor local con Streamlit.
+
+
+
 
 # Roles 
 * Lider del Proyecto: [José R. Guignan](https://www.linkedin.com/in/jrguignan) 
