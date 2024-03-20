@@ -103,7 +103,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Diagrama Entidad Relación
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/modelo_ER.jpg"  height=400>
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/modelo_ER.jpg"  height=600>
 </p>
 
 
