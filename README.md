@@ -1,6 +1,6 @@
 # 
 <div align="left">
-   <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hola! Somos la Empresa BEAUTY CONSULTING   </h1>
+   <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hola! Somos la Empresa BEAUTY CONSULTING   </h1>
 </div>
 
 <p align="center">
