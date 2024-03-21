@@ -12,7 +12,7 @@
 Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia de datos que se especializa en ayudar a organizaciones de diversos sectores a aprovechar al máximo sus datos para obtener información significativa en la toma decisiones estratégicas. Nuestro equipo de expertos en datos combina habilidades técnicas avanzadas con un profundo conocimiento del negocio para ofrecer soluciones personalizadas que impulsen el éxito de nuestros clientes.
 
 # Índice
-* [Sistema de Recomendación de Nail Salons:](#Sistema-de-Recomendación-de-Nail-Salons:)
+* [Sistema de Recomendación de Nail Salons](#Sistema-de-Recomendación-de-Nail-Salons)
   * [Objetivo](#Objetivo )
   * [Objetivos Específicos](#Objetivos-Específicos)
   * [Alcance ](#Alcance)
