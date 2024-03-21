@@ -102,7 +102,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 ### ETL
 | [Python](https://www.python.org/doc/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [AirFlow](https://airflow.apache.org/docs/) | [Google Cloud](https://cloud.google.com/storage/docs?hl=es-419) |
-| ------------------------ | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| ------------------------ | ----------------------- | ----------------------- | ----------------------- |
 | <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/airflow.png" alt="AirFlow Logo" width="100" align="center"> | <img src="images/logos/google_cloud.png" alt="Google Cloud Logo" width="100" align="center"> |
 
 ### EDA
