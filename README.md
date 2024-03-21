@@ -12,7 +12,7 @@
 Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia de datos que se especializa en ayudar a organizaciones de diversos sectores a aprovechar al máximo sus datos para obtener información significativa en la toma decisiones estratégicas. Nuestro equipo de expertos en datos combina habilidades técnicas avanzadas con un profundo conocimiento del negocio para ofrecer soluciones personalizadas que impulsen el éxito de nuestros clientes.
 
 # Índice
-* [Sistema de Recomendación de Nail Salons](#Sistema-de-Recomendación-de-Nail-Salons:-Mejorando-la-Experiencia-del-Cliente-en-el-Cuidado-de-Uñas)
+* [Sistema de Recomendación de Nail Salons: Mejorando la Experiencia del Cliente en el Cuidado de Uñas :nail_care:](#Sistema-de-Recomendación-de-Nail-Salons:-Mejorando-la-Experiencia-del-Cliente-en-el-Cuidado-de-Uñas-:nail_care:)
   * [Objetivo](#Objetivo )
   * [Objetivos Específicos](#Objetivos-Específicos)
   * [Alcance ](#Alcance)
@@ -99,6 +99,10 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 
 ## Tegnologías Utilizadas
+### EDA
+| [Python](https://www.python.org/doc/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [Matplotlib](https://matplotlib.org/stable/contents.html) | [Seaborn](https://seaborn.pydata.org/) | [Power BI](https://docs.microsoft.com/en-us/power-bi/ |
+| ------------------------ | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| <img src="images/Logos/python.png" alt="Python Logo" width="100"> | img src="images/Logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/Logos/matplotlib.png" alt="Matplotlib Logo" width="100">  | <img src="Images/Logos/seaborn.png" alt="Seaborn Logo" width="100">  | <img src="images/Logos/seaborn.png" alt="Seaborn Logo" width="100"> | <img src="images/Logos/powerbi.png" alt="Power BI Logo" width="100" align="center">|
 
 
 
@@ -213,6 +217,6 @@ Funciona ingresando un correo electrónico con una sintaxis válida, en caso de 
 
 # Roles 
 * Lider del Proyecto: [José R. Guignan](https://www.linkedin.com/in/jrguignan). 
-* Ingeniería de Datos: [Angel Jaramillo]() y [Juan Albadan](). 
-* Análisis de Datos: [Katia Ordoñez]() y [Bryam Guerrero]().
+* Ingeniería de Datos: [Angel Jaramillo]() y [Juan Albadan](https://www.linkedin.com/in/juan-david-albadan-689855216/). 
+* Análisis de Datos: [Katia Ordoñez](https://www.linkedin.com/in/katia-marilia-ordo%C3%B1ez-candia-1a8061289/) y [Bryam Guerrero](https://www.linkedin.com/in/bryam-guerrero-tejeda-bb136b27a/).
 * Ingeniería de Apredizaje Automático: [José R. Guignan](https://www.linkedin.com/in/jrguignan). 
