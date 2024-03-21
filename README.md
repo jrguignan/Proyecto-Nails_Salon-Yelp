@@ -102,7 +102,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ### EDA
 | [Python](https://www.python.org/doc/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [Matplotlib](https://matplotlib.org/stable/contents.html) | [Seaborn](https://seaborn.pydata.org/) | [Power BI](https://docs.microsoft.com/en-us/power-bi/) |
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| <img src="images/logos/python.png" alt="Python Logo" width="100"> | img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/matplotlib.png" alt="Matplotlib Logo" width="100">  | <img src="images/logos/seaborn.png" alt="Seaborn Logo" width="100">  | <img src="images/logos/powerbi.png" alt="Power BI Logo" width="100" align="center"> |
+| <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/matplotlib.png" alt="Matplotlib Logo" width="100">  | <img src="images/logos/seaborn.png" alt="Seaborn Logo" width="100">  | <img src="images/logos/powerbi.png" alt="Power BI Logo" width="100" align="center"> |
 
 
 
