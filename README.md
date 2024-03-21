@@ -12,7 +12,7 @@
 Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia de datos que se especializa en ayudar a organizaciones de diversos sectores a aprovechar al máximo sus datos para obtener información significativa en la toma decisiones estratégicas. Nuestro equipo de expertos en datos combina habilidades técnicas avanzadas con un profundo conocimiento del negocio para ofrecer soluciones personalizadas que impulsen el éxito de nuestros clientes.
 
 # Índice
-* [Sistema de Recomendación de Nail Salons: Mejorando la Experiencia del Cliente en el Cuidado de Uñas :nail_care:](#Sistema-de-Recomendación-de-Nail-Salons:-Mejorando-la-Experiencia-del-Cliente-en-el-Cuidado-de-Uñas-:nail_care:)
+* [Sistema de Recomendación de Nail Salons:](#Sistema-de-Recomendación-de-Nail-Salons:)
   * [Objetivo](#Objetivo )
   * [Objetivos Específicos](#Objetivos-Específicos)
   * [Alcance ](#Alcance)
@@ -29,7 +29,8 @@ Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia
 * [Roles](#Roles)
     
 
-# Sistema de Recomendación de Nail Salons: Mejorando la Experiencia del Cliente en el Cuidado de Uñas :nail_care:
+# Sistema de Recomendación de Nail Salons: 
+Mejorando la Experiencia del Cliente en el Cuidado de Uñas :nail_care:
 
 ## Objetivo 
 
@@ -100,17 +101,20 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 ## Tegnologías Utilizadas
 
+
 ### ETL
 | [Python](https://www.python.org/doc/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [AirFlow](https://airflow.apache.org/docs/) | [Google Cloud](https://cloud.google.com/storage/docs?hl=es-419) |
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- |
 | <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/airflow.png" alt="AirFlow Logo" width="100" align="center"> | <img src="images/logos/google_cloud.png" alt="Google Cloud Logo" width="100" align="center"> |
 
+
 ### EDA
 | [Python](https://www.python.org/doc/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [NLTK](https://www.nltk.org/) | [Matplotlib](https://matplotlib.org/stable/contents.html) | [Seaborn](https://seaborn.pydata.org/) | 
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- | ----------------------- | 
 | <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  |  <img src="images/logos/NLTK.png" alt="NLTK Logo" width="100"> | <img src="images/logos/matplotlib.png" alt="Matplotlib Logo" width="100">  | <img src="images/logos/seaborn.png" alt="Seaborn Logo" width="100">  | 
-### Machine Learning
 
+
+### Machine Learning
 | [Python](https://www.python.org/doc/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [Scikit Learn](https://scikit-learn.org/stable/) | [GitHub](https://github.com) | [Streamlit](https://docs.streamlit.io/) |
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- |----------------------- |
 | <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/scikit_learn.png" alt="scikit_learn Logo" width="100" align="center"> | <img src="images/logos/github.png" alt="Github Logo" width="100" align="center"> | <img src="images/logos/streamlit.png" alt="Stramlit Logo" width="100" align="center"> |
@@ -125,10 +129,6 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 
 
-
-
-
-
 <br>[Volver al Índice](#Índice)
 # [Data Engineer](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Data%20Engineer)
 
@@ -139,7 +139,6 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 [Archivos limpios y Diccionario de datos](https://drive.google.com/drive/folders/1W5RQnRovzXpqijahiWN5D-rKtwRs75wU?usp=sharing)<br>
 [Video Código ETL](https://drive.google.com/file/d/1lB04CzL9OdhFtZdwrU_3XEg5iJRb8zIm/view?usp=sharing)<br>
 [Video Google (GCP)](https://drive.google.com/file/d/1w6RYAlI1eo9ZsulOqGIAr2PrO4ad4lqd/view?usp=sharing)<br>
-
 
 
 
