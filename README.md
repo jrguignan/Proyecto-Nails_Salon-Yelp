@@ -110,6 +110,12 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- | ----------------------- | 
 | <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/matplotlib.png" alt="Matplotlib Logo" width="100">  | <img src="images/logos/seaborn.png" alt="Seaborn Logo" width="100">  | <img src="images/logos/powerbi.png" alt="Power BI Logo" width="100" align="center">
 
+### Machine Learning
+
+| [Python](https://www.python.org/doc/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [Sckit Learn](https://scikit-learn.org/stable/) | [StreamLit](https://docs.streamlit.io/) |
+| ------------------------ | ----------------------- | ----------------------- | ----------------------- |
+| <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/scikit_learn.png" alt="AirFlow Logo" width="100" align="center"> | <img src="images/logos/google_cloud.png" alt="Google Cloud Logo" width="100" align="center"> |
+
 
 <br>[Volver al Índice](#Índice)
 ## Diagrama Entidad Relación
