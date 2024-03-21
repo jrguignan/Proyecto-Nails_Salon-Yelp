@@ -114,7 +114,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 | [Python](https://www.python.org/doc/) | [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) | [Scikit Learn](https://scikit-learn.org/stable/) | [Streamlit](https://docs.streamlit.io/) |
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- |
-| <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/scikit_learn.png" alt="Scikit Learn Logo" width="100" align="center"> | <img src="images/logos/streamlit.png" alt="Stramlit Logo" width="100" align="center"> |
+| <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/scikit_learn.png" alt="scikit_learn Logo" width="100" align="center"> | <img src="images/logos/streamlit.png" alt="Stramlit Logo" width="100" align="center"> |
 
 
 <br>[Volver al Índice](#Índice)
