@@ -29,8 +29,8 @@ Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia
 * [Roles](#Roles)
     
 
-# Sistema de Recomendación de Nail Salons: 
-Mejorando la Experiencia del Cliente en el Cuidado de Uñas :nail_care:
+# Sistema de Recomendación de Nail Salons
+## Mejorando la Experiencia del Cliente en el Cuidado de Uñas :nail_care:
 
 ## Objetivo 
 
