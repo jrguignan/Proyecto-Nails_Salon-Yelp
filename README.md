@@ -119,6 +119,12 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 | ------------------------ | ----------------------- | ----------------------- | ----------------------- |----------------------- |
 | <img src="images/logos/python.png" alt="Python Logo" width="100"> | <img src="images/logos/pandas.png" alt="Pandas Logo" width="100">  | <img src="images/logos/scikit_learn.png" alt="scikit_learn Logo" width="100" align="center"> | <img src="images/logos/github.png" alt="Github Logo" width="100" align="center"> | <img src="images/logos/streamlit.png" alt="Stramlit Logo" width="100" align="center"> |
 
+### Extra
+| [Notion](https://www.notion.so/es-la/) | [Chat GPT](https://chat.openai.com) | [Copilot](https://copilot.microsoft.com
+) |
+| ------------------------ | ----------------------- | ----------------------- |
+| <img src="images/logos/notion.png" alt="Notion Logo" width="100"> | <img src="images/logos/chat_gpt.png" alt="Chat Gpt Logo" width="100">  | <img src="images/logos/copilot.png" alt="Copilot Logo" width="100" align="center"> |
+
 
 <br>[Volver al Índice](#Índice)
 ## Diagrama Entidad Relación
