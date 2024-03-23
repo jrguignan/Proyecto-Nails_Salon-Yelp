@@ -140,7 +140,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Diagrama ETL
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/ETL2.jpg"  height=500>
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/ETL2.jpg"  height=400>
 </p>
 
 
@@ -158,7 +158,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ## Esquema de Carga Incremental
 
 <p align="center">
-<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/EsquemaCargaIncremental.png"  height=500>
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/EsquemaCargaIncremental.png"  height=300>
 </p>
 
 
