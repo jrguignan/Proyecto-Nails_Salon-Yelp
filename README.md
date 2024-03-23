@@ -154,7 +154,6 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 * Se crearon crearon catálogos.
 
 
-##  Pipeline
 
 ## Esquema de Carga Incremental
 
