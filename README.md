@@ -145,6 +145,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 
 <br>
+## Tareas
 * Se eliminaron valores nulos.
 * Se eliminaron valores duplicados.
 * Se desanidaron algunas columnas.
@@ -153,15 +154,13 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 * Se crearon crearon catálogos.
 
 
-## Diagrama Pipeline
+##  Pipeline
 
 ## Esquema de Carga Incremental
 
 <p align="center">
 <img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/EsquemaCargaIncremental.png"  height=300>
 </p>
-
-
 
 
 ## Extras:
