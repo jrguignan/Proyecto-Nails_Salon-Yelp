@@ -137,6 +137,31 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 <br>[Volver al Índice](#Índice)
 # [Data Engineer](https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/tree/main/Data%20Engineer)
 
+## Diagrama ETL
+
+<p align="center">
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/ETL2.jpg"  height=500>
+</p>
+
+
+<br>
+* Se eliminaron valores nulos.
+* Se eliminaron valores duplicados.
+* Se desanidaron algunas columnas.
+* Se realizó un verificación de la columnas estado, a traves de la latitud y la longitud. 
+* Se filtró por el estado de ]Florida.
+* Se crearon crearon catálogos.
+
+
+## Diagrama Pipeline
+
+## Esquema de Carga Incremental
+
+<p align="center">
+<img src="https://github.com/jrguignan/Proyecto-Nails_Salon-Yelp/blob/main/images/EsquemaCargaIncremental.png"  height=500>
+</p>
+
+
 
 
 ## Extras:
