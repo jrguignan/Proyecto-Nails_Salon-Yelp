@@ -144,7 +144,7 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 </p>
 
 
-<br>
+
 ## Tareas
 * Se eliminaron valores nulos.
 * Se eliminaron valores duplicados.
